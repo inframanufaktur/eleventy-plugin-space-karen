@@ -1,6 +1,6 @@
 {
   "name": "@inframanufaktur/eleventy-plugin-space-karen",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Go to space, Karen",
   "main": ".eleventy.js",
   "publishConfig": {
